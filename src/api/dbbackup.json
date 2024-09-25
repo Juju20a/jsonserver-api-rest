@@ -1,61 +1,61 @@
 {
-	"users": [
+	"users": [  // Início da lista de usuários
 		{
-			"id": 1,
-			"name": "Morad name",
-			"username": "Morad",
-			"email": "morad@april.biz",
-			"phone": "989143548471",
-			"companiesId": "1"
+			"id": 1,  // ID único do usuário
+			"name": "Morad name",  // Nome do usuário
+			"username": "Morad",   // Nome de usuário
+			"email": "morad@april.biz", // Endereço de email
+			"phone": "989143548471", // Número de telefone
+			"companiesId": "1"    // ID da empresa associada (referência à lista de empresas)
 		},
 		{
-			"id": 2,
-			"name": "Farshad name",
-			"username": "Farshad",
-			"email": "farshad@gmail.com",
-			"phone": "989332548474",
-			"companiesId": "2"
+			"id": 2,  // ID único do usuário
+			"name": "Farshad name", // Nome do usuário
+			"username": "Farshad",  // Nome de usuário
+			"email": "farshad@gmail.com", // Endereço de email
+			"phone": "989332548474", // Número de telefone
+			"companiesId": "2"      // ID da empresa associada
 		},
 		{
-			"id": 3,
-			"name": "Leila name",
-			"username": "Leila",
-			"email": "leila@april.biz",
-			"phone": "989215147848",
-			"companiesId": "2"
+			"id": 3,  // ID único do usuário
+			"name": "Leila name",    // Nome do usuário
+			"username": "Leila",     // Nome de usuário
+			"email": "leila@april.biz", // Endereço de email
+			"phone": "989215147848", // Número de telefone
+			"companiesId": "2"      // ID da empresa associada
 		},
 		{
-			"id": 4,
-			"name": "Nastaran name",
-			"username": "Nastaran",
-			"email": "nasi@gmail.com",
-			"phone": "989387845214",
-			"companiesId": "3"
+			"id": 4,  // ID único do usuário
+			"name": "Nastaran name", // Nome do usuário
+			"username": "Nastaran",  // Nome de usuário
+			"email": "nasi@gmail.com", // Endereço de email
+			"phone": "989387845214", // Número de telefone
+			"companiesId": "3"      // ID da empresa associada
 		},
 		{
-			"id": 5,
-			"name": "Sobhan name",
-			"username": "Sobhan",
-			"email": "sobhan@yahoo.com",
-			"phone": "989354812514",
-			"companiesId": "3"
+			"id": 5,  // ID único do usuário
+			"name": "Sobhan name",   // Nome do usuário
+			"username": "Sobhan",    // Nome de usuário
+			"email": "sobhan@yahoo.com", // Endereço de email
+			"phone": "989354812514", // Número de telefone
+			"companiesId": "3"      // ID da empresa associada
 		}
 	],
-	"companies": [
+	"companies": [  // Início da lista de empresas
 		{
-			"id": 1,
-			"name": "Romaguera-Crona",
-			"catchPhrase": "Multi-layered client-server neural-net"
+			"id": 1,  // ID único da empresa
+			"name": "Romaguera-Crona", // Nome da empresa
+			"catchPhrase": "Multi-layered client-server neural-net" // Slogan/catchphrase
 		},
 		{
-			"id": 2,
-			"name": "Deckow-Crist",
-			"catchPhrase": "Proactive didactic contingency"
+			"id": 2,  // ID único da empresa
+			"name": "Deckow-Crist",  // Nome da empresa
+			"catchPhrase": "Proactive didactic contingency" // Slogan/catchphrase
 		},
 		{
-			"id": 3,
-			"name": "Keebler LLC",
-			"catchPhrase": "User-centric fault-tolerant solution"
+			"id": 3,  // ID único da empresa
+			"name": "Keebler LLC",    // Nome da empresa
+			"catchPhrase": "User-centric fault-tolerant solution" // Slogan/catchphrase
 		}
 	]
 }
